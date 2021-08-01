@@ -1,4 +1,4 @@
-# `DataCamp Machine Learning Engineer - Python Track`
+# `DataCamp ML Engineer - Python Track`
 This repository contains notebooks used in different courses listed under the DataCamp's Machine Learning Engineer - Python Track. 
 
 ## List of Courses:
